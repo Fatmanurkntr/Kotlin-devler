@@ -1,1 +1,1 @@
-# Kotlin-devler
+# Kotlin-Ödevler
